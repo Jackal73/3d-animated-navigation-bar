@@ -1,0 +1,11 @@
+{
+  "name": "3d-animated-navigation-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A3d navigation bar\u001b[B\u001b[B"
+  },
+  "author": "Shawn Kebel",
+  "license": "ISC"
+}
